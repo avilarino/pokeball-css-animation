@@ -18,7 +18,7 @@ Welcome to my Github  :wave: :wave:
 
 #### Desktop
 
-![Screenshot](https://raw.githubusercontent.com/avilarino/pokeball-css-animation/master/images/design/pokeball.jpg)
+![Screenshot](https://raw.githubusercontent.com/avilarino/pokeball-css-animation/master/images/pokeball.jpg)
 
 
 ### Link to Github Pages
